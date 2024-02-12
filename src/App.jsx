@@ -2,7 +2,7 @@ import React from "react";
 
 export default function App() {
   return (
-    <div class="bg-[#D4E3EC] flex-1 ">
+    <div>
       <nav class="flex justify-around bg-[#24242B] text-[#EEEFF4] border-spacing-1 m-5 py-3">
         <div>
           <p className="text-1xl black-800">LOGOBAKERY</p>
